@@ -1,0 +1,5 @@
+hub mouseT2T
+shortLabel Mouse T2T
+longLabel Mouse Telomere-to-Telomere Assembly
+genomesFile genomes.txt
+email chaturvedip2@nih.gov

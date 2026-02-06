@@ -1,0 +1,5 @@
+genome mouseT2T
+trackDb trackDb.txt
+twoBitPath assembly.2bit
+organism Mus musculus
+defaultPos chr1:1-1000000

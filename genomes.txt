@@ -1,0 +1,1 @@
+mouseT2T mouseT2T/genome.txt
